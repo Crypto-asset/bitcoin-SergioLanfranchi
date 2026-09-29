@@ -8,7 +8,7 @@
    Portfolio Amount
 ================================ */
 
-const portfolioBTC = 24.77;
+const portfolioBTC = 14.77;
 
 
 
