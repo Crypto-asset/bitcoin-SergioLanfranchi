@@ -6,7 +6,7 @@ This project is a modern cryptocurrency dashboard interface featuring a glassmor
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live 
 
 Visit the live website:
 
